@@ -1,0 +1,8 @@
+{
+  "name": "coffee-shop",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix client run build",
+    "vercel-build": "npm --prefix client run build"
+  }
+}
